@@ -36,7 +36,7 @@ The display provides a quick visual overview of ICU room availability, helping s
 A simple always-visible interface for older or vulnerable people, providing immediate access to important emergency and caregiver contacts.
 ## How to view
 
-Open the images in the `screenshots` folder in numerical order from 01 to 05.
+Open the five images (1.png to 5.png) in numerical order.
 
 ## Tools used
 
@@ -51,7 +51,7 @@ The Async Labs product reference image provided in the candidate material was us
 
 ## Incomplete / Next steps
 
-No major items remain incomplete. No Figma used
+No major items remain incomplete. Figma was not used because the submission focuses on final product visuals rather than an interactive prototype.
 
 ## Time spent
 

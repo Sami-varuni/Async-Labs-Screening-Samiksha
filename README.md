@@ -4,7 +4,7 @@
 
 ## What I built
 
-I created five premium product visuals exploring how the Async Labs 7.5-inch workspace display could be used across different hospital environments. The visual system focuses on the idea of keeping critical information visible and accessible at the moment it is needed.
+I created five premium product visuals exploring how the Async Labs 7.5-inch workspace display could be used across different hospital environments. The visual system focuses on the idea of keeping critical information visible and accessible at the moment it is needed. It emphasizes how technology is helpful in the medical field.
 
 The five concepts cover hospital reception, a doctor's office, a patient room, ICU room availability, and a personal emergency-contact use case for older or vulnerable people.
 
@@ -13,7 +13,7 @@ The five concepts cover hospital reception, a doctor's office, a patient room, I
 ### 01 — Hospital Reception
 **The whole hospital. At a glance.**
 
-The display gives reception staff a quick overview of appointments, doctors and room availability.
+The display gives reception staff a quick overview of appointments, doctors and room availability, keeping essential hospital information visible without requiring them to switch between different systems.
 
 ### 02 — Doctor's Office
 **Your day. Always in view.**
@@ -28,13 +28,12 @@ The display keeps important patient-care information such as upcoming checkups a
 ### 04 — ICU
 **Know what's available. When every moment matters.**
 
-The display provides a quick overview of ICU room availability and current room status.
+The display provides a quick visual overview of ICU room availability, helping staff understand room status without needing to access a separate computer.
 
 ### 05 — Personal Emergency Display
 **Help, one glance away.**
 
-The display provides older or vulnerable people with immediate access to important emergency and caregiver contacts.
-
+A simple always-visible interface for older or vulnerable people, providing immediate access to important emergency and caregiver contacts.
 ## How to view
 
 Open the images in the `screenshots` folder in numerical order from 01 to 05.
